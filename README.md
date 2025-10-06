@@ -72,6 +72,7 @@ Publish the website in the given URL.
     </script>
 </body>
 </html>
+```
 ## OUTPUT:
 Screenshot 2025-10-06 142512.png
 ## RESULT:
